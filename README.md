@@ -13,10 +13,10 @@
 * From service class repository interface methods are colled. This is methods are mainly JPA repository and Curd repository methods but JPA repository is extend by repository interface
 
 # Operations/Methods with its url and endpoints
-*for user class
+* for user class
 User/adduser: http://localhost:8080/swagger-ui/index.html#/user-controller/adduser
 * for food class
--> addfood: http://localhost:8080/swagger-ui/index.html#/food-controller/addfood
+Food/-> addfood: http://localhost:8080/swagger-ui/index.html#/food-controller/addfood
 ->  getfood: http://localhost:8080/swagger-ui/index.html#/food-controller/getallfoods
 -> updateFood: http://localhost:8080/swagger-ui/index.html#/food-controller/updatefood
 -> deleteFood : http://localhost:8080/swagger-ui/index.html#/food-controller/deletfood
