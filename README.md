@@ -20,7 +20,7 @@ User/adduser: http://localhost:8080/swagger-ui/index.html#/user-controller/addus
 ->  getfood: http://localhost:8080/swagger-ui/index.html#/food-controller/getallfoods
 -> updateFood: http://localhost:8080/swagger-ui/index.html#/food-controller/updatefood
 -> deleteFood : http://localhost:8080/swagger-ui/index.html#/food-controller/deletfood
-*for order class
+* for order class
 -> orderfood : http://localhost:8080/swagger-ui/index.html#/order-controller/orderfood
 -> get order by user id : http://localhost:8080/swagger-ui/index.html#/order-controller/getOrdersbyId
 
