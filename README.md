@@ -26,7 +26,7 @@ User/adduser: http://localhost:8080/swagger-ui/index.html#/user-controller/addus
 
 
 
-# Build 
+# Build  
 * I/we use MVC architecture for Design the projrct. 
 * I/we use MYSQL database in this project.
 * I/we use List dataStructure in this project.
